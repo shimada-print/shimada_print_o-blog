@@ -7,11 +7,11 @@ const Intro = () => {
         Blog.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        markdownJSXなので簡単に投稿・保管が出来て
-        &
-        <br />Next.jsなのでSEOで集客力が上がり
-        & 
-        TypeScriptは静的型付けなので正確
+        <ul>
+        <li>markdownJSXなので簡単に投稿・保管が出来る</li>
+        <li>Next.jsなのでSEOで集客力が上がり</li>
+        <li>TypeScriptは静的型付けなので正確</li>
+        </ul>
       </h4>
     </section>
   )
