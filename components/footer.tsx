@@ -7,7 +7,7 @@ const Footer = () => {
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <div className="sp-ob_banner-1-1">
-            <img src="/assets/blog/sp-ob_banner-1.jpg" alt="Shimada_Print Blog" className="sp-ob_banner-1-2 width="auto" height="80"" />
+            <img src="/assets/blog/sp-ob_banner-1.jpg" alt="Shimada_Print Blog" className="sp-ob_banner-1-2" width="auto" height="80" />
           </div>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
