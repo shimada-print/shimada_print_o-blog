@@ -9,9 +9,9 @@ const Intro = () => {
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         markdownJSXなので簡単に投稿・保管が出来て
         &
-        Next.jsなのでSEOで集客力が上がり
+        <br />Next.jsなのでSEOで集客力が上がり
         & 
-        <br />TypeScriptは静的型付けなので正確
+        TypeScriptは静的型付けなので正確
       </h4>
     </section>
   )
