@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="sp-ob_banner-1-1">
             <img src="/assets/blog/sp-ob_banner-1.jpg" alt="Shimada_Print Blog" className="sp-ob_banner-1-2" />
           </div>
-          <div className="GitHub_s-1-1 white-space:nowrap text-align:center">
+          <div className="GitHub_s-1-1 items-nowrap items-center">
             <a
               href={`https://github.com/shimada-print/shimada-print-o-blog`}
               className="mx-3 font-bold hover:underline"
@@ -25,7 +25,7 @@ const Footer = () => {
               Shimada_Print Homepage
             </a>
           </div>
-          <div className="created_spc-1-1 white-space:nowrap text-align:center">
+          <div className="created_spc-1-1 items-nowrap items-center">
             <a
               href={`https://docusaurus-2-shimada-print-1.vercel.app/docs/doc1`}
               className="mx-3 font-bold hover:underline"
