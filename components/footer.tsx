@@ -12,9 +12,9 @@ const Footer = () => {
           <div alingn="center" className="GitHub_s-1-1">
             <a
               href={`https://github.com/shimada-print/shimada-print-o-blog`}
-              className="mx-3 font-bold hover:underline"
+              className="mx-3 font-bold hover:underline white-space: nowrap"
             >
-              <nobr>Source on GitHub</nobr>
+              Source on GitHub
             </a>
           </div>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
@@ -28,9 +28,9 @@ const Footer = () => {
           <div alingn="center" className="created_spc-1-1">
             <a
               href={`https://docusaurus-2-shimada-print-1.vercel.app/docs/doc1`}
-              className="mx-3 font-bold hover:underline"
+              className="mx-3 font-bold hover:underline white-space: nowrap"
             >
-              <nobr>created by S.P Consulting</nobr>
+              created by S.P Consulting
             </a>
           </div>
         </div>
