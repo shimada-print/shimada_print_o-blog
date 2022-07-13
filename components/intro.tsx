@@ -7,14 +7,13 @@ const Intro = () => {
         Blog.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A statically generated blog example using{' '}
-        <a
-          href="https://nextjs.org/"
-          className="underline hover:text-blue-600 duration-200 transition-colors"
-        >
-          Next.js
-        </a>{' '}
-        and {CMS_NAME}.
+        markdownJSXなので簡単に投稿・保管が出来て
+        &
+        プリレンダーなのでSEOで集客力が上がり
+        <img src="/assets/blog/nextjs-white-logo.svg" alt="Next.js" width="auto" height="80" /> 
+        & 
+        静的型付けなので正確な
+        <img src="/assets/blog/ts-logo-512.svg" alt="TypeScript" width="auto" height="80" />         
       </h4>
     </section>
   )
