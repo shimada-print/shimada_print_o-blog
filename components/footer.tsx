@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="GitHub-s-1-1 flex-nowrap justify-center items-center">
             <a
               href={`https://github.com/shimada-print/shimada-print-o-blog`}
-              className="gh-2 bg-black hover:bg-white hover:text-black border border-white text-black font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
+              className="mx-3 bg-white hover:bg-black hover:text-white border border-white text-black font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
             >
               Source on GitHub
             </a>
@@ -28,7 +28,7 @@ const Footer = () => {
           <div className="created-spc-1-1 flex-nowrap justify-center items-center">
             <a
               href={`https://docusaurus-2-shimada-print-1.vercel.app/docs/doc1`}
-              className="cb-2 bg-black hover:bg-white hover:text-black border border-white text-black font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
+              className="mx-3 bg-white hover:bg-black hover:text-white border border-white text-black font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
             >
               created by S.P Consulting
             </a>
