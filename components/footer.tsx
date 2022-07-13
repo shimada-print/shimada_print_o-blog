@@ -14,7 +14,7 @@ const Footer = () => {
               href="http://shimada.starfree.jp/"
               className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
             >
-              Shimada_Print homepage
+              Shimada_Print Homepage
             </a>
             <a
               href={`https://github.com/shimada-print/`}
