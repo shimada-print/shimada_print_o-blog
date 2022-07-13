@@ -9,10 +9,10 @@ const Footer = () => {
           <div className="sp-ob_banner-1-1">
             <img src="/assets/blog/sp-ob_banner-1.jpg" alt="Shimada_Print Blog" className="sp-ob_banner-1-2" />
           </div>
-          <span className="GitHub-s-1-1 flex-nowrap justify-center items-center">
+          <span className="GitHub-s-1-1">
             <a
               href={`https://github.com/shimada-print/shimada-print-o-blog`}
-              className="mx-3 font-bold hover:underlin font-size:1.2rem"
+              className="mx-3 font-bold hover:underlin font-size:1.2rem flex-nowrap justify-center items-center"
             >
               Source on GitHub
             </a>
@@ -25,10 +25,10 @@ const Footer = () => {
               Shimada_Print Homepage
             </a>
           </div>
-          <span className="created-spc-1-1 flex-nowrap justify-center items-center">
+          <span className="created-spc-1-1">
             <a
               href={`https://docusaurus-2-shimada-print-1.vercel.app/docs/doc1`}
-              className="mx-3 font-bold hover:underline font-size:1.2rem"
+              className="mx-3 font-bold hover:underline font-size:1.2rem flex-nowrap justify-center items-center"
             >
               created by S.P Consulting
             </a>
