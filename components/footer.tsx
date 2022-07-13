@@ -32,7 +32,7 @@ const Footer = () => {
             >
               created by S.P Consulting
             </a>
-          </span>
+          </div>
         </div>
       </Container>
     </footer>
