@@ -11,7 +11,7 @@ const Footer = () => {
           </div>
           <div className="GitHub_s-1-1">
             <table border="0">
-            <tr><td style="white-space:nowrap;">
+            <tr><td style="white-space:nowrap">
             <a
               href={`https://github.com/shimada-print/shimada-print-o-blog`}
               className="mx-3 font-bold hover:underline"
@@ -30,7 +30,7 @@ const Footer = () => {
           </div>
           <div className="created_spc-1-1">
             <table border="0">
-            <tr><td style="white-space:nowrap;">
+            <tr><td style="white-space:nowrap">
             <a
               href={`https://docusaurus-2-shimada-print-1.vercel.app/docs/doc1`}
               className="mx-3 font-bold hover:underline"
