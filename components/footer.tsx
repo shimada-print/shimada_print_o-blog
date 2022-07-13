@@ -6,15 +6,15 @@ const Footer = () => {
     <footer className="bg-neutral-50 border-t border-neutral-200">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
-           <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-             A statically generated blog example using{' '}
-             <a
+          <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
+             A statically generated blog example using
+            <a
                href="https://nextjs.org/"
-               className="underline hover:text-blue-600 duration-200 transition-colors"
-              >
-               Next.js
-             </a>{' '}
-             and {CMS_NAME}.
+              className="underline hover:text-blue-600 duration-200 transition-colors"
+            >
+              Next.js
+            </a>
+            and {CMS_NAME}.
           </h4>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
