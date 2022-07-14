@@ -5,11 +5,11 @@ const Footer = () => {
   return (
     <footer className="bg-neutral-50 border-t border-neutral-200">
       <Container>
+        <div className="sp-ob_banner-1-1">
+         <img src="/assets/blog/sp-ob_banner-1.jpg" alt="Shimada_Print Blog" 
+         className="sp-ob_banner-1-2 width:300px height:85px" width="300" height="85" />
+        </div>
         <div className="py-28 flex flex-col lg:flex-row items-center">
-          <div className="sp-ob_banner-1-1">
-            <img src="/assets/blog/sp-ob_banner-1.jpg" alt="Shimada_Print Blog" 
-              className="sp-ob_banner-1-2 width:300px height:85px" width="300" height="85" />
-          </div>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
               href={`https://github.com/shimada-print/shimada-print-o-blog`}
