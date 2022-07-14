@@ -8,8 +8,6 @@ const Header = () => {
       </Link>
       .
     </h2>
-    <img src="/assets/blog/sp-ob_banner-1.jpg" alt="Shimada_Print Blog" 
-    className="sp-ob_banner-1-2 width:300px height:85px" width="300" height="85" />
   )
 }
 
