@@ -7,7 +7,6 @@ const Intro = () => {
         Blog.
       </h1>
       markdownJSXなので簡単に投稿・保管が出来て、Next.jsなのでSEOで集客力が上がり、TypeScriptは静的型付けなので正確
-      <img src="/assets/blog/authors/shimada_print-logo.jpg" class="spl1" alt="Shimada Print"/>
     </section>
   )
 }
